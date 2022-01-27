@@ -7,7 +7,7 @@ Deep Learning has gained a lot of popularity due to its recent breakthrough resu
 
 The course begins with a thorough treatment of deep feedforward networks along with various regularization and optimization techniques used for efficiently learning these models. Different forms of the network architectures such as convolutional networks, recurrent neural networks, and autoencoders will be discussed in detail. Other advanced concepts such as deep generative models and deep reinforcement learning will also be covered. Finally, the course will conclude with a discussion on few real-world application domains where deep learning techniques have produced astonishing results.
 
-Topics Covered:
+#Topics Covered:
 
 Topics covered in the course
 
@@ -15,7 +15,7 @@ Topics covered in the course
 
 Books: The material for this course will be adapted from a wide range of sources. While there is no single textbook that will be used in this course, the students might find the following books to be useful.
 
-Charu C. Aggarwal, "Neural Networks and Deep Learning: A Textbook", Springer, September 2018.
-Ian Goodfellow, Yoshua Bengio, and Aaron Courville, "Deep learning", MIT Press, 2016.
-Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola, Dive into Deep Learning (https://d2l.ai/ (Links to an external site.)), 2020.
-Simon O. Haykin, "Neural Networks and Learning Machines", Pearson Education, 3rd Edition, 2008.
+1. Charu C. Aggarwal, "Neural Networks and Deep Learning: A Textbook", Springer, September 2018.
+2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, "Deep learning", MIT Press, 2016.
+3. Aston Zhang and Zachary C. Lipton and Mu Li and Alexander J. Smola, Dive into Deep Learning (https://d2l.ai/ (Links to an external site.)), 2020.
+4. Simon O. Haykin, "Neural Networks and Learning Machines", Pearson Education, 3rd Edition, 2008.
